@@ -45,6 +45,7 @@
     "klaviyo-subscribe": "^1.0.0",
     "magic-tricks": "^0.3.1",
     "markdown-it": "^10.0.0",
+    "netlify-cli": "^2.69.1",
     "netlify-lambda": "^1.6.3",
     "node-fetch": "^2.6.1",
     "node-sass": "^4.13.1",
