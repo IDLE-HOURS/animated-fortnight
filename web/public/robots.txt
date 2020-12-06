@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /account
+Disallow: /docs
+Disallow: /previews
+Sitemap: https://midway.ctrlaltdel.world/sitemap.xml
+Host: https://midway.ctrlaltdel.world

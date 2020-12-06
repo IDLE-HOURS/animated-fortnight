@@ -1,0 +1,5 @@
+
+## Created with gatsby-plugin-netlify
+/account/*  /account/  200
+/docs/*  /docs/  200
+/previews/*  /previews/  200
